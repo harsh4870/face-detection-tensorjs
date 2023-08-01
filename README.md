@@ -9,7 +9,7 @@ Open URL in browser
 
 `http://localhost:1234`
 
-![image3](https://github.com/harsh4870/face-detection-tensorjs/assets/15871000/9132660a-a6b8-4c02-8bd8-9b8240dd2b23)
+<img width="832" alt="Screenshot 2023-08-02 at 1 23 45 AM" src="https://github.com/harsh4870/face-detection-tensorjs/assets/15871000/a32b6ad6-2a69-4119-9506-50f2dd1a0198">
 
 ### Getting Started
 
