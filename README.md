@@ -2,8 +2,13 @@
 Face Detection Tensorjs &amp; Docker 
 
 ### Quick Demo
+ARM 
 ```
 docker run -p 1234:1234 harshmanvar/face-detection-tensorjs:slim-v1
+```
+AMD
+```
+docker run -p 5000:1234  harshmanvar/face-detection-tensorjs:slim-amd
 ```
 Open URL in browser
 
